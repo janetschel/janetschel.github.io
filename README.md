@@ -1,8 +1,11 @@
-## Welcome to my start page for code.janetschel.dev
+## Welcome ???
 
-Actually, you shouldn't be here. I **only** use this subdomain for different websites (they are accessed via the path).
+Actually, you shouldn't be here. I **only** use this subdomain to keep track and 'index' different websites via the path.  
+This just means that I publish some of my personal projects to this domain ([for example](https://code.janetschel.dev/brainfuck-visualizer/)).
 
-So if you are here, you just visited the main-page without any page. Welp.. nothing much to see here.
+So if you are here, you just visited the main-page without any path (this shouldn't happen); you visited no specific project.
+
+Welp, I hate to break it to you, but nothing to see here...
 
 ### Markdown
 
