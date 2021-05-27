@@ -9,4 +9,4 @@ Welp, I hate to break it to you, but nothing to see here...
 
 <br>
 
-Visit me @ [https://janetschel.dev](https://janetschel.dev)
+Visit me @ [https://janetschel.dev](https://janetschel.dev) for more content
