@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 
 title: code.janetschel.dev
 author: Jan Etschel
+
+github:
+  is_project_page: false
