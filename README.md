@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my start page for code.janetschel.dev
 
-You can use the [editor on GitHub](https://github.com/janetschel/janetschel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Actually, you shouldn't be here. I **only** use this subdomain for different websites (they are accessed via the path).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So if you are here, you just visited the main-page without any page. Welp.. nothing much to see here.
 
 ### Markdown
 
